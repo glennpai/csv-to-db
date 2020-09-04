@@ -1,0 +1,2 @@
+﻿StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,ID_1,ID_2,ID_3,ID_4,Q1,Q2,Q3,Q4,Q5,Q6,Q7
+8/21/20 16:45,8/21/20 16:45,Survey Preview,,100,14,True,8/21/20 16:45,R_FFFFFFFFFFFFFFFF,,,,,00.000000000,-00.000000000,preview,EN,,,,,Yes,No,,,,,

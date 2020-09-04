@@ -1,0 +1,23 @@
+{   
+    "user": "DB_USERNAME",
+    "pwd": {    "csdev": "DB_PWD",
+                "cstst": "DB_PWD",
+                "csqat": "DB_PWD",
+                "csprd": "DB_PWD"
+    },
+    "host": {   "csdev": "DB_HOST",
+                "cstst": "DB_HOST",
+                "csqat": "DB_HOST",
+                "csprd": "DB_HOST"
+    },
+    "port": {   "csdev": "DB_PORT",
+                "cstst": "DB_PORT",
+                "csqat": "DB_PORT",
+                "csprd": "DB_PORT"
+    },
+    "svc": {    "csdev": "DB_SERVICE",
+                "cstst": "DB_SERVICE",
+                "csqat": "DB_SERVICE",
+                "csprd": "DB_SERVICE"
+    }
+}
